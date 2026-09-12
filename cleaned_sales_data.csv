@@ -1,0 +1,251 @@
+Order_ID,Date,Year,Month,Product,Category,Region,Quantity,Sales,Profit,Profit_Margin,Total_Sales,Sales_Category,Customer_Type
+ORD00133,2025-05-25,2025,May,Keyboard,Electronics,East,7,10637.41,3045.65,28.63,10637.41,Medium,New
+ORD00248,2025-02-22,2025,February,Chair,Furniture,East,10,119509.8,12445.39,10.41,119509.8,High,Returning
+ORD00225,2025-03-24,2025,March,Bookshelf,Furniture,West,8,44007.36,5920.38,13.45,44007.36,High,Returning
+ORD00025,2025-07-24,2025,July,File Folder,Office Supplies,South,10,1230.9,139.76,11.35,1230.9,Low,Returning
+ORD00058,2025-01-13,2025,January,File Folder,Office Supplies,South,8,855.36,253.32,29.62,855.36,Low,New
+ORD00066,2025-10-08,2025,October,Notebook,Office Supplies,East,7,1512.7,485.34,32.08,1512.7,Low,Returning
+ORD00003,2025-08-18,2025,August,Headphones,Electronics,West,9,35374.5,7724.85,21.84,35374.5,High,New
+ORD00180,2025-07-31,2025,July,Notebook,Office Supplies,North,9,2046.78,234.37,11.45,2046.78,Low,New
+ORD00210,2025-10-20,2025,October,Bookshelf,Furniture,North,9,78322.5,21278.37,27.17,78322.5,High,Returning
+ORD00095,2025-08-12,2025,August,Tablet,Electronics,West,9,263785.23,34562.39,13.1,263785.23,High,Returning
+ORD00242,2025-05-31,2025,May,Tablet,Electronics,West,3,33786.03,9556.62,28.29,33786.03,High,New
+ORD00170,2025-04-30,2025,April,Printer,Office Supplies,South,10,68598.6,20507.23,29.89,68598.6,High,New
+ORD00004,2025-06-24,2025,June,Bookshelf,Furniture,South,5,38806.5,2015.98,5.19,38806.5,High,Returning
+ORD00097,2025-09-11,2025,September,Headphones,Electronics,East,8,30105.76,7540.18,25.05,30105.76,High,New
+ORD00201,2025-02-15,2025,February,Laptop,Electronics,West,6,251249.58,83988.79,33.43,251249.58,High,Returning
+ORD00023,2025-09-30,2025,September,Headphones,Electronics,West,10,57241.4,4332.95,7.57,57241.4,High,New
+ORD00127,2025-01-27,2025,January,Laptop,Electronics,West,4,222950.32,52792.44,23.68,222950.32,High,Returning
+ORD00075,2025-09-01,2025,September,File Folder,Office Supplies,West,9,1114.92,359.07,32.21,1114.92,Low,New
+ORD00089,2025-03-25,2025,March,Headphones,Electronics,South,8,35497.76,9941.84,28.01,35497.76,High,New
+ORD00079,2025-02-01,2025,February,Headphones,Electronics,West,2,5914.62,882.84,14.93,5914.62,Medium,Returning
+ORD00154,2025-08-14,2025,August,Printer,Office Supplies,North,3,35174.55,11291.77,32.1,35174.55,High,Returning
+ORD00134,2025-08-17,2025,August,Pen,Office Supplies,West,5,426.85,95.6,22.4,426.85,Low,New
+ORD00063,2025-08-09,2025,August,Headphones,Electronics,South,5,5154.05,931.94,18.08,5154.05,Medium,Returning
+ORD00123,2025-06-14,2025,June,File Folder,Office Supplies,West,8,1945.52,371.6,19.1,1945.52,Low,Returning
+ORD00100,2025-08-18,2025,August,Pen,Office Supplies,West,7,377.79,104.82,27.75,377.79,Low,Returning
+ORD00121,2025-03-31,2025,March,Headphones,Electronics,East,10,38530.4,2166.32,5.62,38530.4,High,New
+ORD00161,2025-11-28,2025,November,Headphones,Electronics,East,8,7441.04,2345.94,31.53,7441.04,Medium,New
+ORD00217,2025-12-10,2025,December,Bookshelf,Furniture,East,2,9024.56,1471.04,16.3,9024.56,Medium,New
+ORD00112,2025-11-09,2025,November,Table,Furniture,East,5,79862.1,27712.9,34.7,79862.1,High,New
+ORD00051,2025-02-08,2025,February,Pen,Office Supplies,North,8,477.2,85.09,17.83,477.2,Low,New
+ORD00012,2025-10-18,2025,October,Headphones,Electronics,North,1,4986.24,849.4,17.03,4986.24,Low,New
+ORD00205,2025-11-18,2025,November,Tablet,Electronics,North,5,69727.2,16087.44,23.07,69727.2,High,New
+ORD00216,2025-03-08,2025,March,Smartphone,Electronics,East,10,405353.2,131749.49,32.5,405353.2,High,Returning
+ORD00222,2025-07-30,2025,July,Printer,Office Supplies,West,10,138040.0,13757.31,9.97,138040.0,High,New
+ORD00081,2025-09-07,2025,September,Laptop,Electronics,West,6,281667.06,47037.27,16.7,281667.06,High,New
+ORD00071,2025-05-05,2025,May,Chair,Furniture,West,10,39443.5,10212.17,25.89,39443.5,High,Returning
+ORD00158,2025-02-16,2025,February,Smartphone,Electronics,West,3,133285.53,15685.63,11.77,133285.53,High,Returning
+ORD00188,2025-01-15,2025,January,Printer,Office Supplies,North,10,115560.9,28059.31,24.28,115560.9,High,Returning
+ORD00220,2025-12-05,2025,December,Tablet,Electronics,North,3,34629.9,10504.24,30.33,34629.9,High,New
+ORD00053,2025-04-18,2025,April,Laptop,Electronics,North,5,247930.3,81798.75,32.99,247930.3,High,Returning
+ORD00110,2025-05-08,2025,May,Notebook,Office Supplies,East,1,79.45,23.31,29.34,79.45,Low,New
+ORD00008,2025-02-21,2025,February,Smartphone,Electronics,North,1,40434.32,11399.26,28.19,40434.32,High,New
+ORD00061,2025-11-02,2025,November,Keyboard,Electronics,North,3,62785.5,2320.67,3.7,62785.5,High,New
+ORD00092,2025-09-30,2025,September,Bookshelf,Furniture,North,2,15350.96,3373.83,21.98,15350.96,Medium,Returning
+ORD00091,2025-12-17,2025,December,Smartphone,Electronics,North,10,416964.2,99309.5,23.82,416964.2,High,Returning
+ORD00099,2025-05-04,2025,May,Bookshelf,Furniture,South,5,30563.2,6265.09,20.5,30563.2,High,New
+ORD00155,2025-08-01,2025,August,Laptop,Electronics,East,10,495944.5,11399.26,2.3,495944.5,High,Returning
+ORD00009,2025-07-01,2025,July,Chair,Furniture,South,5,32670.5,9808.77,30.02,32670.5,High,Returning
+ORD00085,2025-05-23,2025,May,Keyboard,Electronics,East,7,10374.42,1933.89,18.64,10374.42,Medium,Returning
+ORD00028,2025-09-21,2025,September,Pen,Office Supplies,East,1,30.6,9.84,32.16,30.6,Low,New
+ORD00223,2025-10-01,2025,October,Monitor,Electronics,West,4,86175.32,20094.24,23.32,86175.32,High,New
+ORD00067,2025-08-15,2025,August,File Folder,Office Supplies,East,1,96.85,10.95,11.31,96.85,Low,Returning
+ORD00230,2025-01-15,2025,January,Desk,Furniture,East,6,46634.7,16245.55,34.84,46634.7,High,New
+ORD00235,2025-11-20,2025,November,Printer,Office Supplies,West,10,97568.1,8123.26,8.33,97568.1,High,New
+ORD00178,2025-11-02,2025,November,Tablet,Electronics,East,2,25047.66,5943.69,23.73,25047.66,High,Returning
+ORD00109,2025-10-23,2025,October,File Folder,Office Supplies,West,8,440.8,30.68,6.96,440.8,Low,New
+ORD00126,2025-07-31,2025,July,Printer,Office Supplies,North,7,101125.29,30082.57,29.75,101125.29,High,Returning
+ORD00047,2025-03-01,2025,March,File Folder,Office Supplies,South,9,862.74,214.84,24.9,862.74,Low,Returning
+ORD00167,2025-05-22,2025,May,Monitor,Electronics,North,9,184728.96,44971.9,24.34,184728.96,High,Returning
+ORD00231,2025-01-20,2025,January,Monitor,Electronics,South,2,39175.28,9597.48,24.5,39175.28,High,New
+ORD00149,2025-12-20,2025,December,Desk,Furniture,East,3,15545.37,5185.48,33.36,15545.37,Medium,Returning
+ORD00082,2025-03-26,2025,March,Headphones,Electronics,East,5,15331.75,900.09,5.87,15331.75,Medium,Returning
+ORD00129,2025-10-10,2025,October,Laptop,Electronics,East,10,669725.5,176094.17,26.29,669725.5,High,New
+ORD00032,2025-10-02,2025,October,Pen,Office Supplies,South,6,492.3,40.75,8.28,492.3,Low,New
+ORD00250,2025-05-21,2025,May,Table,Furniture,East,6,59900.28,16055.93,26.8,59900.28,High,Returning
+ORD00087,2025-04-13,2025,April,Headphones,Electronics,North,2,9724.82,2387.7,24.55,9724.82,Medium,New
+ORD00014,2025-07-05,2025,July,Tablet,Electronics,West,4,99599.12,21084.46,21.17,99599.12,High,Returning
+ORD00010,2025-10-01,2025,October,Headphones,Electronics,North,5,22247.35,5674.5,25.51,22247.35,High,New
+ORD00019,2025-09-17,2025,September,Table,Furniture,East,1,17330.33,5420.16,31.28,17330.33,Medium,New
+ORD00096,2025-08-19,2025,August,File Folder,Office Supplies,North,10,890.5,272.06,30.55,890.5,Low,Returning
+ORD00214,2025-02-03,2025,February,Keyboard,Electronics,North,7,12084.17,1830.87,15.15,12084.17,Medium,Returning
+ORD00240,2025-01-23,2025,January,Monitor,Electronics,East,4,71976.48,17164.74,23.85,71976.48,High,New
+ORD00116,2025-08-06,2025,August,File Folder,Office Supplies,East,8,365.28,43.84,12.0,365.28,Low,New
+ORD00015,2025-03-20,2025,March,Headphones,Electronics,North,3,10348.62,799.67,7.73,10348.62,Medium,New
+ORD00041,2025-12-03,2025,December,Bookshelf,Furniture,North,4,25051.88,1551.28,6.19,25051.88,High,Returning
+ORD00046,2025-12-08,2025,December,Keyboard,Electronics,East,3,5443.65,1159.31,21.3,5443.65,Medium,New
+ORD00203,2025-09-29,2025,September,Pen,Office Supplies,North,6,179.64,50.97,28.37,179.64,Low,New
+ORD00033,2025-08-15,2025,August,Table,Furniture,South,3,28851.84,3853.55,13.36,28851.84,High,New
+ORD00078,2025-12-28,2025,December,Monitor,Electronics,West,9,73877.94,7036.81,9.52,73877.94,High,New
+ORD00246,2025-12-21,2025,December,Chair,Furniture,South,8,87570.96,14536.2,16.6,87570.96,High,Returning
+ORD00122,2025-11-22,2025,November,Table,Furniture,South,9,116522.01,37848.89,32.48,116522.01,High,Returning
+ORD00239,2025-02-04,2025,February,Laptop,Electronics,North,7,519691.06,65530.48,12.61,519691.06,High,Returning
+ORD00029,2025-05-05,2025,May,Headphones,Electronics,South,5,21393.4,2444.65,11.43,21393.4,High,Returning
+ORD00064,2025-09-17,2025,September,Smartphone,Electronics,North,6,232774.08,57964.53,24.9,232774.08,High,Returning
+ORD00083,2025-10-31,2025,October,File Folder,Office Supplies,North,8,1858.4,639.69,34.42,1858.4,Low,Returning
+ORD00151,2025-12-04,2025,December,Headphones,Electronics,East,7,26418.0,5876.51,22.24,26418.0,High,New
+ORD00200,2025-07-27,2025,July,Chair,Furniture,East,10,60442.3,14629.61,24.2,60442.3,High,New
+ORD00016,2025-07-15,2025,July,Notebook,Office Supplies,North,3,737.82,130.33,17.66,737.82,Low,Returning
+ORD00042,2025-05-03,2025,May,Bookshelf,Furniture,South,10,58980.9,19487.99,33.04,58980.9,High,Returning
+ORD00059,2025-06-29,2025,June,Notebook,Office Supplies,North,4,574.4,76.73,13.36,574.4,Low,Returning
+ORD00135,2025-06-14,2025,June,Desk,Furniture,West,8,76175.84,16421.62,21.56,76175.84,High,Returning
+ORD00194,2025-08-09,2025,August,Bookshelf,Furniture,North,8,41537.52,4763.14,11.47,41537.52,High,Returning
+ORD00037,2025-04-22,2025,April,Pen,Office Supplies,South,9,626.13,122.72,19.6,626.13,Low,Returning
+ORD00206,2025-11-18,2025,November,Table,Furniture,West,8,115515.68,7677.08,6.65,115515.68,High,Returning
+ORD00171,2025-03-08,2025,March,Monitor,Electronics,East,3,56488.98,12924.37,22.88,56488.98,High,New
+ORD00228,2025-02-16,2025,February,Printer,Office Supplies,South,3,22911.3,7368.09,32.16,22911.3,High,Returning
+ORD00052,2025-03-07,2025,March,Pen,Office Supplies,South,3,177.3,53.26,30.04,177.3,Low,Returning
+ORD00213,2025-07-10,2025,July,Pen,Office Supplies,South,8,793.52,164.43,20.72,793.52,Low,Returning
+ORD00115,2025-12-26,2025,December,Table,Furniture,East,10,103137.3,6166.78,5.98,103137.3,High,Returning
+ORD00175,2025-08-23,2025,August,Desk,Furniture,North,10,57448.6,11555.88,20.12,57448.6,High,Returning
+ORD00102,2025-06-30,2025,June,Bookshelf,Furniture,West,6,33457.14,7001.8,20.93,33457.14,High,Returning
+ORD00086,2025-06-29,2025,June,Printer,Office Supplies,North,7,51807.84,3863.41,7.46,51807.84,High,New
+ORD00098,2025-05-24,2025,May,File Folder,Office Supplies,East,6,797.45,47.73,5.99,797.45,Low,Returning
+ORD00227,2025-02-12,2025,February,Table,Furniture,North,6,69245.04,5593.4,8.08,69245.04,High,Returning
+ORD00229,2025-07-22,2025,July,Headphones,Electronics,West,8,43200.56,14219.1,32.91,43200.56,High,New
+ORD00139,2025-12-02,2025,December,Smartphone,Electronics,South,9,460340.91,25136.58,5.46,460340.91,High,Returning
+ORD00148,2025-12-13,2025,December,Notebook,Office Supplies,West,5,797.45,199.4,25.0,797.45,Low,Returning
+ORD00237,2025-02-04,2025,February,Monitor,Electronics,North,4,62239.84,6609.51,10.62,62239.84,High,Returning
+ORD00211,2025-08-19,2025,August,Notebook,Office Supplies,South,4,494.4,95.27,19.27,494.4,Low,New
+ORD00174,2025-07-05,2025,July,Pen,Office Supplies,West,7,401.45,109.88,27.37,401.45,Low,Returning
+ORD00038,2025-01-26,2025,January,Laptop,Electronics,East,10,644294.9,43997.14,6.83,644294.9,High,New
+ORD00165,2025-12-20,2025,December,Notebook,Office Supplies,East,2,513.52,120.52,23.47,513.52,Low,New
+ORD00199,2025-10-22,2025,October,File Folder,Office Supplies,North,1,125.97,23.67,18.79,125.97,Low,Returning
+ORD00187,2025-10-15,2025,October,Monitor,Electronics,South,9,112620.78,31396.61,27.88,112620.78,High,Returning
+ORD00105,2025-04-10,2025,April,Keyboard,Electronics,East,10,34298.2,7113.14,20.74,34298.2,High,New
+ORD00106,2025-01-24,2025,January,Keyboard,Electronics,South,4,6330.56,890.58,14.07,6330.56,Medium,Returning
+ORD00159,2025-12-11,2025,December,Printer,Office Supplies,West,7,32620.42,6881.99,21.1,32620.42,High,Returning
+ORD00172,2025-01-08,2025,January,Desk,Furniture,North,5,83881.1,6960.28,8.3,83881.1,High,New
+ORD00050,2025-03-24,2025,March,Chair,Furniture,South,5,12204.35,1831.47,15.01,12204.35,Medium,Returning
+ORD00142,2025-11-20,2025,November,Pen,Office Supplies,North,8,708.08,43.03,6.08,708.08,Low,New
+ORD00006,2025-10-02,2025,October,Smartphone,Electronics,North,6,290653.56,67175.21,23.11,290653.56,High,Returning
+ORD00018,2025-03-22,2025,March,Desk,Furniture,East,5,81487.9,12390.45,15.21,81487.9,High,Returning
+ORD00130,2025-03-02,2025,March,Chair,Furniture,North,2,8494.02,2568.78,30.24,8494.02,Medium,Returning
+ORD00103,2025-06-11,2025,June,Pen,Office Supplies,North,8,275.04,34.5,12.54,275.04,Low,New
+ORD00162,2025-03-13,2025,March,Smartphone,Electronics,West,8,408829.36,57504.73,14.07,408829.36,High,New
+ORD00114,2025-07-29,2025,July,Smartphone,Electronics,South,3,66942.6,14432.67,21.56,66942.6,High,New
+ORD00117,2025-02-06,2025,February,Smartphone,Electronics,East,9,195001.29,18466.0,9.47,195001.29,High,New
+ORD00157,2025-08-28,2025,August,Keyboard,Electronics,East,8,27217.2,3770.74,13.85,27217.2,High,New
+ORD00107,2025-01-07,2025,January,Laptop,Electronics,West,9,420169.23,140011.68,33.32,420169.23,High,New
+ORD00163,2025-10-03,2025,October,Laptop,Electronics,North,1,47174.58,9330.54,19.78,47174.58,High,New
+ORD00065,2025-08-04,2025,August,Keyboard,Electronics,South,7,10349.85,2682.29,25.92,10349.85,Medium,New
+ORD00027,2025-02-06,2025,February,Smartphone,Electronics,South,6,77426.82,16737.86,21.62,77426.82,High,New
+ORD00140,2025-11-29,2025,November,Tablet,Electronics,East,2,38779.62,13214.59,34.08,38779.62,High,Returning
+ORD00185,2025-06-30,2025,June,File Folder,Office Supplies,East,7,1546.86,411.96,26.63,1546.86,Low,Returning
+ORD00224,2025-12-14,2025,December,Headphones,Electronics,South,5,29105.5,8304.12,28.53,29105.5,High,Returning
+ORD00118,2025-03-05,2025,March,Laptop,Electronics,North,3,200115.42,45729.02,22.85,200115.42,High,Returning
+ORD00146,2025-11-09,2025,November,Chair,Furniture,South,10,88180.0,9172.22,10.4,88180.0,High,New
+ORD00238,2025-08-29,2025,August,Desk,Furniture,North,9,109055.16,37787.55,34.65,109055.16,High,Returning
+ORD00030,2025-07-01,2025,July,Printer,Office Supplies,North,8,110289.76,11814.57,10.71,110289.76,High,Returning
+ORD00080,2025-09-02,2025,September,Headphones,Electronics,North,7,19776.96,11399.26,57.64,19776.96,Medium,Returning
+ORD00141,2025-11-17,2025,November,Smartphone,Electronics,West,6,291904.08,89848.85,30.78,291904.08,High,Returning
+ORD00132,2025-02-05,2025,February,Table,Furniture,South,4,40493.6,3781.8,9.34,40493.6,High,New
+ORD00040,2025-03-03,2025,March,Smartphone,Electronics,South,3,44839.26,3156.16,7.04,44839.26,High,Returning
+ORD00169,2025-03-06,2025,March,Notebook,Office Supplies,East,10,2924.8,190.62,6.52,2924.8,Low,New
+ORD00055,2025-04-02,2025,April,File Folder,Office Supplies,West,3,734.31,215.32,29.32,734.31,Low,New
+ORD00044,2025-10-03,2025,October,Laptop,Electronics,North,8,478770.96,104802.05,21.89,478770.96,High,New
+ORD00179,2025-12-02,2025,December,Desk,Furniture,North,5,56297.25,13040.02,23.16,56297.25,High,New
+ORD00049,2025-11-21,2025,November,Notebook,Office Supplies,North,5,857.05,107.42,12.53,857.05,Low,New
+ORD00191,2025-07-09,2025,July,Pen,Office Supplies,East,9,264.24,46.49,17.59,264.24,Low,New
+ORD00060,2025-03-01,2025,March,Notebook,Office Supplies,East,9,1295.28,446.02,34.43,1295.28,Low,New
+ORD00144,2025-06-16,2025,June,Pen,Office Supplies,North,2,99.86,25.78,25.82,99.86,Low,New
+ORD00054,2025-05-02,2025,May,Notebook,Office Supplies,West,4,853.6,133.25,15.61,853.6,Low,New
+ORD00021,2025-09-08,2025,September,Printer,Office Supplies,North,3,32108.58,9105.61,28.36,32108.58,High,Returning
+ORD00125,2025-03-01,2025,March,Chair,Furniture,East,9,21302.73,1627.91,7.64,21302.73,High,Returning
+ORD00245,2025-08-12,2025,August,File Folder,Office Supplies,North,1,220.48,32.98,14.96,220.48,Low,Returning
+ORD00241,2025-11-20,2025,November,Monitor,Electronics,West,9,108703.89,26397.51,24.28,108703.89,High,Returning
+ORD00166,2025-12-18,2025,December,Monitor,Electronics,East,4,54603.0,18301.1,33.52,54603.0,High,New
+ORD00077,2025-06-21,2025,June,Headphones,Electronics,South,5,15436.7,4076.27,26.41,15436.7,Medium,Returning
+ORD00208,2025-01-30,2025,January,Laptop,Electronics,West,6,331760.88,47482.4,14.31,331760.88,High,New
+ORD00108,2025-05-10,2025,May,Bookshelf,Furniture,South,5,27755.4,5055.39,18.21,27755.4,High,New
+ORD00013,2025-05-16,2025,May,Pen,Office Supplies,West,6,174.84,34.93,19.98,174.84,Low,New
+ORD00017,2025-12-16,2025,December,Bookshelf,Furniture,North,8,47513.92,16217.62,34.13,47513.92,High,New
+ORD00048,2025-04-15,2025,April,Smartphone,Electronics,South,9,168158.34,22621.82,13.45,168158.34,High,Returning
+ORD00183,2025-10-12,2025,October,File Folder,Office Supplies,East,2,101.02,7.98,7.9,101.02,Low,New
+ORD00120,2025-02-16,2025,February,Bookshelf,Furniture,East,1,8281.25,2238.92,27.04,8281.25,Medium,New
+ORD00022,2025-01-30,2025,January,Laptop,Electronics,North,2,144327.88,45263.61,31.36,144327.88,High,New
+ORD00147,2025-08-25,2025,August,File Folder,Office Supplies,South,7,1164.38,142.34,12.22,1164.38,Low,New
+ORD00204,2025-02-22,2025,February,Desk,Furniture,South,4,73979.04,11452.89,15.48,73979.04,High,New
+ORD00131,2025-09-05,2025,September,Notebook,Office Supplies,East,3,508.74,134.81,26.5,508.74,Low,Returning
+ORD00198,2025-07-23,2025,July,Chair,Furniture,East,9,81330.39,16272.48,20.01,81330.39,High,New
+ORD00233,2025-02-26,2025,February,Laptop,Electronics,South,2,71520.32,8203.12,11.47,71520.32,High,Returning
+ORD00074,2025-11-10,2025,November,Printer,Office Supplies,East,8,97417.12,33742.15,34.64,97417.12,High,Returning
+ORD00031,2025-07-26,2025,July,Chair,Furniture,North,7,46691.75,12547.14,26.87,46691.75,High,New
+ORD00218,2025-07-05,2025,July,Pen,Office Supplies,East,9,165.69,41.61,25.11,165.69,Low,New
+ORD00034,2025-05-02,2025,May,Printer,Office Supplies,North,9,50633.55,12437.8,24.56,50633.55,High,New
+ORD00181,2025-06-10,2025,June,Monitor,Electronics,East,8,103847.6,27922.93,26.89,103847.6,High,Returning
+ORD00209,2025-08-25,2025,August,Monitor,Electronics,North,5,40754.85,12604.46,30.93,40754.85,High,Returning
+ORD00156,2025-03-26,2025,March,Tablet,Electronics,East,4,50572.8,10712.45,21.18,50572.8,High,Returning
+ORD00226,2025-11-25,2025,November,File Folder,Office Supplies,East,4,825.12,75.51,9.15,825.12,Low,New
+ORD00124,2025-12-06,2025,December,Notebook,Office Supplies,West,2,526.02,78.35,14.89,526.02,Low,Returning
+ORD00068,2025-05-26,2025,May,Table,Furniture,South,4,43648.08,12575.91,28.81,43648.08,High,New
+ORD00164,2025-08-01,2025,August,Tablet,Electronics,West,7,133510.16,33530.52,25.11,133510.16,High,New
+ORD00101,2025-12-06,2025,December,Printer,Office Supplies,South,1,5570.11,648.8,11.65,5570.11,Medium,Returning
+ORD00150,2025-02-24,2025,February,Keyboard,Electronics,West,8,24287.28,2665.9,10.98,24287.28,High,Returning
+ORD00195,2025-04-23,2025,April,Smartphone,Electronics,East,5,205816.85,46913.95,22.79,205816.85,High,New
+ORD00249,2025-12-20,2025,December,Smartphone,Electronics,West,6,242517.18,34425.01,14.19,242517.18,High,New
+ORD00232,2025-11-12,2025,November,Keyboard,Electronics,West,8,20705.76,1897.43,9.16,20705.76,High,Returning
+ORD00062,2025-10-23,2025,October,Chair,Furniture,North,6,55712.7,8028.38,14.41,55712.7,High,Returning
+ORD00036,2025-08-05,2025,August,Chair,Furniture,West,1,11853.09,1535.7,12.96,11853.09,Medium,Returning
+ORD00011,2025-01-29,2025,January,Pen,Office Supplies,South,4,98.84,16.19,16.38,98.84,Low,Returning
+ORD00244,2025-07-02,2025,July,Chair,Furniture,South,9,60606.0,3696.13,6.1,60606.0,High,Returning
+ORD00072,2025-04-23,2025,April,Tablet,Electronics,North,1,27853.2,8582.47,30.81,27853.2,High,Returning
+ORD00236,2025-11-11,2025,November,Desk,Furniture,West,10,78710.1,7325.79,9.31,78710.1,High,New
+ORD00094,2025-08-11,2025,August,Smartphone,Electronics,West,7,373197.09,89819.41,24.07,373197.09,High,New
+ORD00160,2025-12-12,2025,December,Pen,Office Supplies,East,5,313.05,92.89,29.67,313.05,Low,New
+ORD00119,2025-02-11,2025,February,Table,Furniture,West,5,68230.7,22707.37,33.28,68230.7,High,Returning
+ORD00145,2025-09-29,2025,September,Printer,Office Supplies,South,1,7873.73,1279.11,16.25,7873.73,Medium,New
+ORD00215,2025-06-20,2025,June,Monitor,Electronics,East,2,30738.9,5101.71,16.6,30738.9,High,New
+ORD00002,2025-04-22,2025,April,Notebook,Office Supplies,North,9,563.4,99.48,17.66,563.4,Low,New
+ORD00234,2025-11-24,2025,November,Printer,Office Supplies,South,5,36164.3,3130.18,8.66,36164.3,High,Returning
+ORD00084,2025-01-26,2025,January,Bookshelf,Furniture,West,1,3045.66,543.91,17.86,3045.66,Low,New
+ORD00243,2025-09-21,2025,September,Headphones,Electronics,East,1,4913.77,1551.46,31.57,4913.77,Low,Returning
+ORD00196,2025-05-11,2025,May,Chair,Furniture,South,10,25478.2,2836.41,11.13,25478.2,High,New
+ORD00088,2025-10-16,2025,October,File Folder,Office Supplies,West,1,166.69,20.26,12.15,166.69,Low,New
+ORD00138,2025-08-14,2025,August,Printer,Office Supplies,East,3,30588.84,1869.16,6.11,30588.84,High,New
+ORD00005,2025-07-14,2025,July,Keyboard,Electronics,North,3,3437.82,959.32,27.9,3437.82,Low,New
+ORD00039,2025-09-18,2025,September,Bookshelf,Furniture,South,8,46148.24,14112.87,30.58,46148.24,High,New
+ORD00207,2025-10-30,2025,October,Monitor,Electronics,East,3,40789.32,7777.56,19.07,40789.32,High,Returning
+ORD00202,2025-06-08,2025,June,Chair,Furniture,North,2,8866.32,2009.65,22.67,8866.32,Medium,Returning
+ORD00221,2025-12-21,2025,December,Monitor,Electronics,South,10,89657.4,14615.59,16.3,89657.4,High,New
+ORD00035,2025-03-26,2025,March,Tablet,Electronics,West,7,137989.74,15747.97,11.41,137989.74,High,New
+ORD00193,2025-09-06,2025,September,Tablet,Electronics,West,10,109952.5,8188.65,7.45,109952.5,High,Returning
+ORD00190,2025-02-16,2025,February,Tablet,Electronics,South,3,63979.26,10891.53,17.02,63979.26,High,New
+ORD00113,2025-12-05,2025,December,Pen,Office Supplies,South,2,190.56,21.41,11.24,190.56,Low,Returning
+ORD00182,2025-02-16,2025,February,Notebook,Office Supplies,West,5,686.6,65.77,9.58,686.6,Low,New
+ORD00184,2025-07-01,2025,July,Laptop,Electronics,North,10,732649.8,160087.66,21.85,732649.8,High,Returning
+ORD00153,2025-12-14,2025,December,Printer,Office Supplies,South,4,45925.0,7150.35,15.57,45925.0,High,Returning
+ORD00057,2025-04-13,2025,April,Printer,Office Supplies,West,2,17798.46,1096.69,6.16,17798.46,Medium,New
+ORD00070,2025-08-22,2025,August,Printer,Office Supplies,West,4,24778.28,1582.44,6.39,24778.28,High,New
+ORD00192,2025-03-21,2025,March,Keyboard,Electronics,North,6,16983.06,3741.0,22.03,16983.06,Medium,New
+ORD00045,2025-07-09,2025,July,Headphones,Electronics,North,9,19611.36,6471.31,33.0,19611.36,Medium,New
+ORD00189,2025-01-04,2025,January,Tablet,Electronics,East,5,120269.9,17161.96,14.27,120269.9,High,Returning
+ORD00020,2025-07-11,2025,July,Smartphone,Electronics,South,5,240958.9,48745.71,20.23,240958.9,High,New
+ORD00007,2025-12-27,2025,December,Smartphone,Electronics,East,7,62785.5,14860.19,23.67,62785.5,High,New
+ORD00056,2025-03-23,2025,March,Pen,Office Supplies,South,6,482.46,83.71,17.35,482.46,Low,Returning
+ORD00076,2025-11-17,2025,November,Table,Furniture,East,5,72003.8,21742.19,30.2,72003.8,High,Returning
+ORD00001,2025-02-22,2025,February,Notebook,Office Supplies,South,2,93.0,12.32,13.25,93.0,Low,New
+ORD00173,2025-03-06,2025,March,Monitor,Electronics,East,4,63331.16,3466.39,5.47,63331.16,High,New
+ORD00136,2025-07-30,2025,July,File Folder,Office Supplies,West,4,983.08,119.58,12.16,983.08,Low,New
+ORD00128,2025-03-04,2025,March,Headphones,Electronics,West,5,18279.7,6001.26,32.83,18279.7,Medium,Returning
+ORD00177,2025-11-08,2025,November,Smartphone,Electronics,North,8,341066.08,62438.52,18.31,341066.08,High,Returning
+ORD00069,2025-04-26,2025,April,Desk,Furniture,South,10,93630.1,27670.23,29.55,93630.1,High,Returning
+ORD00168,2025-11-25,2025,November,Headphones,Electronics,North,2,11469.72,3409.46,29.73,11469.72,Medium,New
+ORD00137,2025-12-06,2025,December,Laptop,Electronics,West,6,388729.26,101679.28,26.16,388729.26,High,Returning
+ORD00219,2025-04-26,2025,April,Keyboard,Electronics,West,3,10060.53,1534.43,15.25,10060.53,Medium,New
+ORD00043,2025-02-07,2025,February,Keyboard,Electronics,West,7,6248.41,1522.43,24.37,6248.41,Medium,Returning
+ORD00111,2025-08-19,2025,August,Smartphone,Electronics,South,9,403839.63,93648.51,23.19,403839.63,High,Returning
+ORD00090,2025-04-12,2025,April,Keyboard,Electronics,West,2,4472.1,1469.83,32.87,4472.1,Low,Returning
+ORD00073,2025-03-10,2025,March,Tablet,Electronics,North,9,173619.0,11399.26,6.57,173619.0,High,Returning
+ORD00024,2025-09-28,2025,September,Printer,Office Supplies,South,3,17929.5,3452.95,19.26,17929.5,Medium,Returning
+ORD00143,2025-11-21,2025,November,Notebook,Office Supplies,West,5,797.45,410.13,51.43,797.45,Low,New
+ORD00186,2025-02-25,2025,February,Smartphone,Electronics,West,10,338187.4,32607.71,9.64,338187.4,High,New
+ORD00093,2025-09-08,2025,September,Chair,Furniture,North,6,16137.42,3941.77,24.43,16137.42,Medium,Returning
+ORD00104,2025-09-05,2025,September,Smartphone,Electronics,South,9,475989.66,122352.7,25.7,475989.66,High,New
+ORD00152,2025-05-27,2025,May,Chair,Furniture,North,5,10404.9,3220.53,30.95,10404.9,Medium,Returning
+ORD00212,2025-05-07,2025,May,Smartphone,Electronics,South,6,325455.48,24506.39,7.53,325455.48,High,New
+ORD00247,2025-02-10,2025,February,Table,Furniture,North,6,101415.0,20869.46,20.58,101415.0,High,Returning
+ORD00026,2025-04-26,2025,April,Notebook,Office Supplies,North,6,923.46,189.56,20.53,923.46,Low,New
+ORD00197,2025-03-08,2025,March,Keyboard,Electronics,West,6,5159.7,1027.89,19.92,5159.7,Medium,New
+ORD00176,2025-12-18,2025,December,Notebook,Office Supplies,West,1,55.81,10.81,19.37,55.81,Low,Returning
